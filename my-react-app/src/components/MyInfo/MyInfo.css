@@ -1,0 +1,14 @@
+.MyInfo {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.My-Name {
+    font-style: italic;
+    font-size: 2em;
+    color: rgb(14, 83, 83);
+}
+
+.My-List {
+    text-align: left;
+}
